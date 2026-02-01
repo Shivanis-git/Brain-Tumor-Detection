@@ -120,8 +120,12 @@ brain-tumor-detection/
 
 - Puttoju Sai Shivani - Project Lead and Developer
 
-## License
+## Output Screenshots
 
+
+<img width="1359" height="764" alt="Picture1" src="https://github.com/user-attachments/assets/5f2b1e85-a878-4c86-aad9-64a4794f30a1" />
+<img width="1341" height="754" alt="Picture2" src="https://github.com/user-attachments/assets/6ed5f544-c249-47f8-a5b0-ee904f2c8f07" />
+<img width="600" height="337" alt="Picture3" src="https://github.com/user-attachments/assets/c575dee0-5771-47ec-8416-8dd59fb7aa60" />
 
 
 ## Acknowledgments
