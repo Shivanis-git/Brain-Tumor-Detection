@@ -26,12 +26,12 @@ A web-based application that detects the presence of brain tumors from MRI image
 
 ## 📸 Project Output
 
-![Home Page](<img width="1359" height="764" alt="Picture1" src="https://github.com/user-attachments/assets/94d0d0cb-6b12-4317-b8a4-c5cacd07bbe7" />)
+![Home Page] <img width="1359" height="764" alt="Picture1" src="https://github.com/user-attachments/assets/94d0d0cb-6b12-4317-b8a4-c5cacd07bbe7" />
 
-![Upload MRI Scan](<img width="1341" height="754" alt="Picture2" src="https://github.com/user-attachments/assets/fa10e8fe-cf3b-4907-a9f9-0d5449e3a907" />
-)  
-![Prediction Result](<img width="600" height="337" alt="Picture3" src="https://github.com/user-attachments/assets/3413e95a-a970-485c-814d-0b7163713dd3" />
-)  
+![Upload MRI Scan] <img width="1341" height="754" alt="Picture2" src="https://github.com/user-attachments/assets/fa10e8fe-cf3b-4907-a9f9-0d5449e3a907" />
+
+![Prediction Result] <img width="600" height="337" alt="Picture3" src="https://github.com/user-attachments/assets/3413e95a-a970-485c-814d-0b7163713dd3" />
+
 
 
 ---
