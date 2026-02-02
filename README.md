@@ -33,65 +33,64 @@ A web-based application that detects the presence of brain tumors from MRI image
 ![Prediction Result](<img width="600" height="337" alt="Picture3" src="https://github.com/user-attachments/assets/3413e95a-a970-485c-814d-0b7163713dd3" />
 )  
 
-*(Tip: Keep 3–5 screenshots for best recruiter impact.)*
 
 ---
 
 ## ⚙️ How to Run the Project Locally
 
-Clone the repository:
+### 1️⃣ Navigate into the project folder
 ```bash
-git clone https://github.com/Shivanis-git/Brain-Tumor-Detection.git
-Navigate into the project folder:
-
 cd Brain-Tumor-Detection
+```
 
-
-Install required dependencies:
-
+### 2️⃣ Install required dependencies
+```bash
 pip install -r requirements.txt
+```
 
-
-Run the Flask application:
-
+### 3️⃣ Run the Flask application
+```bash
 python app.py
+```
 
-
-Open your browser and go to:
-
+### 4️⃣ Open your browser and go to:
+```
 http://127.0.0.1:5000/
+```
 
-🎯 Project Objective
+---
+
+## 🎯 Project Objective
 
 The objective of this project is to leverage artificial intelligence to assist in the early detection of brain tumors from MRI scans. By automating the prediction process, the system helps reduce manual diagnostic effort and supports faster medical decision-making.
 
-💡 Key Learning Outcomes
+---
 
-Integrated a deep learning model into a web application
+## 💡 Key Learning Outcomes
 
-Gained hands-on experience with the Flask framework
+- Integrated a deep learning model into a web application  
+- Gained hands-on experience with the Flask framework  
+- Built an end-to-end ML-powered system  
+- Strengthened frontend and backend development skills  
+- Learned how to handle image data for predictions  
 
-Built an end-to-end ML-powered system
+---
 
-Strengthened frontend and backend development skills
+## 🔮 Future Improvements
 
-Learned how to handle image data for predictions
+- Deploy the application on cloud platforms (AWS / Render / Heroku)  
+- Enhance model accuracy with larger datasets  
+- Implement user authentication  
+- Store prediction history in the database  
+- Improve UI for better user experience  
 
-🔮 Future Improvements
+---
 
-Deploy the application on cloud platforms (AWS / Render / Heroku)
+## 👩‍💻 Author
 
-Enhance model accuracy with larger datasets
+**Shivani Puttoju**  
+GitHub: https://github.com/Shivanis-git  
 
-Implement user authentication
-
-Store prediction history in the database
-
-Improve UI for better user experience
-
-👩‍💻 Author
-
-Shivani Puttoju
-GitHub: https://github.com/Shivanis-git
+---
 
 ⭐ If you found this project interesting, feel free to star the repository!
